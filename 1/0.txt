@@ -1,0 +1,10 @@
+# data structure and algorithms - good understanding of data structure 3: 
+- learn how information is arranged in the memory of the computer 
+- algorithms for manipulating the information contained in the data structure
+- understand performance characteristics of data strucutre so when called upon to select suitable data structure for a particula application.
+
+- it is important aspect of computer science as they form fundamental building blocks of developing logical solutions to problems.
+
+
+
+
