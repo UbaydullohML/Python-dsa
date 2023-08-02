@@ -1,5 +1,6 @@
 # Python-dsa
 
+#1 
 • Basic principles of algorithm design 
 • How to represent well-known data structures in Python 
 • How to implement well-known algorithms in Python 
@@ -21,3 +22,16 @@
 - Dynamic Programming and Symbol Tables.
 
 
+
+# 2
+
+= selection sort
+- recursion
+- quicksort
+- hash tables
+- breadth first search
+- dijstra's algorithm
+- greedy algorithms
+- dynamic programming
+- k nearest neighbors
+- 
