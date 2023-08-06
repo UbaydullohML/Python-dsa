@@ -25,13 +25,12 @@
 
 # 2
 
-= selection sort
+- selection sort
 - recursion
 - quicksort
 - hash tables
-- breadth first search
+- breadth-first search
 - dijstra's algorithm
 - greedy algorithms
 - dynamic programming
-- k nearest neighbors
-- 
+- k-nearest neighbors
