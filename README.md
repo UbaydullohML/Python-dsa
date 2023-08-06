@@ -1,6 +1,6 @@
 # Python-dsa
 
-# 1 
+# 1 - dsa - made easy
 • Basic principles of algorithm design 
 • How to represent well-known data structures in Python 
 • How to implement well-known algorithms in Python 
@@ -23,7 +23,7 @@
 
 
 
-# 2
+# 2 - grokking algoritgms
 
 - selection sort
 - recursion
