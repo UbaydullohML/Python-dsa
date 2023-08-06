@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Ubaydullo99/Python-dsa/assets/75980506/49b42795-9196-4fda-b7d2-9df5bace66d9)
 
-- Please try to guess the number in the fewest possible possible possible. 
+- Please try to guess the number in the fewest tries possible. 
 
 ![image](https://github.com/Ubaydullo99/Python-dsa/assets/75980506/9f91617c-68f3-449c-a32e-d59a61afd368)
 
@@ -17,5 +17,13 @@
 
 - a better way to search, start with 50; with binary search, you guess the middle number and eliminate half the remaining numbers every time.
 
-  ![image](https://github.com/Ubaydullo99/Python-dsa/assets/75980506/2efcb7e5-0dfc-4d49-9870-67db9b47f684)
+![image](https://github.com/Ubaydullo99/Python-dsa/assets/75980506/2efcb7e5-0dfc-4d49-9870-67db9b47f684)
 
+
+
+- For any list of n, binary search will take log_2 n steps to run in the worst case.
+- Logarithm - The power (or exponent) to which one base number must be raised — multiplied by itself — to produce another number. For instance, in the base 10 system, 10 must be multiplied by 10 to produce 100. So the logarithm of 100, in a base 10 system, is 2.
+
+![image](https://github.com/Ubaydullo99/Python-dsa/assets/75980506/2cf2747e-445f-4168-babd-7ba7913ec48c)
+
+- 
