@@ -19,5 +19,5 @@ print(binary_oxtarish(mani_listm, 20))
 print(binary_oxtarish(mani_listm, 4))
 print(binary_oxtarish(mani_listm, -1))
 print(binary_oxtarish(mani_listm, 7))
-print(binary_oxtarish(mani_listm, 9))
+print(binary_oxtarish(mani_listm, 9))   
     
