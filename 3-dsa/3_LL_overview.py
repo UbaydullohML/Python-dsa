@@ -66,7 +66,7 @@ class LinkedList:
 my_linked_list = LinkedList(2)
 my_linked_list.append(3)
 my_linked_list.prepend(1)
-# my_linked_list.print_list()
+my_linked_list.print_list()
 my_linked_list.pop_first()
         
 
